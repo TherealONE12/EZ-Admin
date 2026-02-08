@@ -3,13 +3,13 @@ Version: 1.0
 Architecture: amd64
 Maintainer: TherealONE12 <ThisisMClover@outlook.de>
 Depends: libc6 (>= 2.34)
-Priority: optional
-Section: admin
-Filename: pool/main/ez-admin_1.0.deb
+Filename: apt-repo/pool/main/ez-admin_1.0.deb
 Size: 25304
-MD5sum: b6ed6636889c40f96dc91affc17eba6c
-SHA1: 3cdc708bdd3bc05ddb1f6ba32e35abc35722b894
-SHA256: e78ea18e669f73edddf517bdcda13685b0d4dba10d9409e418be3153ae7835d2
+MD5sum: 96e2512885a2f4e30c6b1f8df0262d8e
+SHA1: 9b864f953bf541214ba6511fd55ebc48bbdb0da2
+SHA256: 62770166e52f7c23226f441d37439e97a601a4032896a71409878b10b6acb1cd
+Section: admin
+Priority: optional
 Homepage: https://github.com/TherealONE12/EZ-Admin
 Description: EZ-Admin - Easy Linux System Administration Tool
  EZ-Admin is a menu-driven system administration tool for Linux.
@@ -19,3 +19,4 @@ Description: EZ-Admin - Easy Linux System Administration Tool
   - SWAP file management
   - Docker and Ollama installation
   - And more
+
