@@ -3,7 +3,7 @@ Version: 1.0
 Architecture: amd64
 Maintainer: TherealONE12 <ThisisMClover@outlook.de>
 Depends: libc6 (>= 2.34)
-Filename: apt-repo/pool/main/ez-admin_1.0.deb
+Filename: pool/main/ez-admin_1.0.deb
 Size: 25304
 MD5sum: 96e2512885a2f4e30c6b1f8df0262d8e
 SHA1: 9b864f953bf541214ba6511fd55ebc48bbdb0da2
