@@ -1,26 +1,26 @@
 Origin: TherealONE12
-Label: EZ-Admin Repository  
+Label: EZ-Admin Repository
 Suite: stable
 Codename: stable
 Version: 1.0
 Architectures: amd64
 Components: main
 Description: APT repository for EZ-Admin tools
-Date: So, 08 Feb 2026 20:09:50 UTC
-Date: Sun, 08 Feb 2026 20:09:50 +0000
+Date: So, 08 Feb 2026 20:13:27 UTC
+Date: Sun, 08 Feb 2026 20:13:27 +0000
 MD5Sum:
- 01d88862d7d710be3946d184cc73830d              252 Release
- 3fabe2c92812f18bcc53670ffdbe3c46              751 main/binary-amd64/Packages
- 37e24a1c68f7406641ada26169fefe55              526 main/binary-amd64/Packages.gz
+ 24460f736f79419ec97043854fd6c5fa              250 Release
+ 9800e3dc16e8abd93601b433f257e754              751 main/binary-amd64/Packages
+ 965dc8a0c52b00affe49cbfe19b2c3d1              526 main/binary-amd64/Packages.gz
 SHA1:
- 40c901aaf8687498eb7a185ca232c098ca01f429              252 Release
- 7635adb186fb2861604d44c33571b123854acdb5              751 main/binary-amd64/Packages
- 842935d97afdffc7adc206252d569ad063aec3af              526 main/binary-amd64/Packages.gz
+ e11291d9e8e8e37690f6acb7b6407ca170404345              250 Release
+ 9ecb412cde27b7619623e4cbceabdbe5a3699572              751 main/binary-amd64/Packages
+ cd943c43e70d7087a13d01f1071dbc5f57b0c356              526 main/binary-amd64/Packages.gz
 SHA256:
- 5456ea2a97add6a3d68fc62999c8f51507ffbac7aad36ee478ff653d0a302f51              252 Release
- 0e1c4b0995fe7abcb004352ea9a892d33718b4dcf1aaca33dbaaa18993cb94e3              751 main/binary-amd64/Packages
- 18bb20b0bca1ab4b32132f0931a93c26eeafa4ebe4e9c115b742566a28f4859d              526 main/binary-amd64/Packages.gz
+ a50fd499349cbff423fe78f493eb04098e8094ec327971988324b9034901fcc4              250 Release
+ c2a1a57158015bd6b3719f8060eec2640a239f0ec0617eeba95fe20fbd5eafd2              751 main/binary-amd64/Packages
+ 4e811d2453f5edc2d3744d1b6b22d3078c4845bce87f59dfa00d3db52d3ddeec              526 main/binary-amd64/Packages.gz
 SHA512:
- def3bdc0b050fccf3061cc9738809492de8417cdac777c706576eda4374e1784f4cad3466ef26254ca7e47a570ffe206f6c2c32c3f6b58fa137e5e886a2d1f7b              252 Release
- ab9d15afa581cda280e5fa6581a073c3e5c8a4b58be2821e5abf68554d2e3dbd8b1b9229890fe3e81542e3850de053f0774d811e78dcdac84a63298294a5d853              751 main/binary-amd64/Packages
- f44a5806c04d4089cf82c027161f46079ba8e27b816c00ffa25a0ba2a297bf2c3a9e18c53dcc54beb1f078f47c8469c01fbb7c8bd056f839a8d0ba3c2e166222              526 main/binary-amd64/Packages.gz
+ f234fe79a4364d917fe7bdaae2318f67a208ca9d477a4d07644915d612534be882a964093aa2f240bb8c99f3cf62d787b222c78ba1ae2fabde9da09f1032ee28              250 Release
+ e0e3c255f9bf2d5cd970fe2571f2c8aafcf677f5ab5b8ad37f0c3a89a7e65b3133712cbb6956146d678fa918c1b99081f85d12fd4185edc5eb55c988b5615c01              751 main/binary-amd64/Packages
+ 071932265b3e562014e1d857d9ad65bf889fe9c77683421f424042d3edce7545b94031dd7c5f3a3c8079c822df8dc6283170c7d0e656e8dcfe76ca4acf4aabd2              526 main/binary-amd64/Packages.gz

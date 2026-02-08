@@ -4,10 +4,10 @@ Architecture: amd64
 Maintainer: TherealONE12 <ThisisMClover@outlook.de>
 Depends: libc6 (>= 2.34)
 Filename: pool/main/ez-admin_1.0.deb
-Size: 25304
-MD5sum: 96e2512885a2f4e30c6b1f8df0262d8e
-SHA1: 9b864f953bf541214ba6511fd55ebc48bbdb0da2
-SHA256: 62770166e52f7c23226f441d37439e97a601a4032896a71409878b10b6acb1cd
+Size: 25360
+MD5sum: 14f84d10962a017038a24b0496c5ff9c
+SHA1: 3ecc5154483fcfa9d17519b9a10bf4f3bc35d736
+SHA256: ded5df2d234a8c04c452fb5b755dcfcafc217c41a07b950f8b6347c30db0ac58
 Section: admin
 Priority: optional
 Homepage: https://github.com/TherealONE12/EZ-Admin

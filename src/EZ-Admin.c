@@ -101,7 +101,7 @@ int main(void) {
 					"\n 3: Install top 10 Tools      4: Install cleaning Tool"
 					"\n 5: Install git               6: install python3"
 					"\n 7: Make temporary SWAP ram   8: Install Ollama"
-					"\n 9: Install OpenWebUI         10: Run Clean Tool pre-made settings");
+					"\n 9: Install OpenWebUI         10: Run Clean Tool pre-made settings\n");
 
 			printf("\nPLEASE Report bugs or similar in FlavourTown or Github Issues! I hope you like my Tool!");
 			printf("\nPlease also add suggestions in Flavourtown or Github! Thanks alot again for using this, this is not normal that someone is using a tool made by an small creator!");
