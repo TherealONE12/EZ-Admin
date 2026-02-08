@@ -1,0 +1,48 @@
+EZ-Admin - Easy Linux System Administration Tool
+================================================
+
+EZ-Admin is a user-friendly, menu-driven tool for common Linux system
+administration tasks.
+
+USAGE:
+------
+Run with sudo privileges:
+  sudo ez-admin
+
+FEATURES:
+---------
+ 0. Show help message
+ 1. Update System (apt update && upgrade)
+ 2. Cleanup (apt autoremove && clean)
+ 3. Install top 10 Tools (kali-linux-top10)
+ 4. Install cleaning Tool (BleachBit)
+ 5. Install git
+ 6. Install python3
+ 7. Make temporary SWAP RAM
+ 8. Install Ollama
+ 9. Install OpenWebUI
+10. Run Clean Tool with pre-made settings
+99. Exit
+
+REQUIREMENTS:
+-------------
+- Linux system with APT package manager
+- sudo/root privileges
+- Internet connection for downloads
+
+WARNING:
+--------
+This tool requires root privileges. Always review the source code
+before running any tool with elevated permissions.
+
+Source code available at: https://github.com/TherealONE12/EZ-Admin
+
+BUGS:
+-----
+Please report bugs and suggestions at:
+- GitHub Issues: https://github.com/TherealONE12/EZ-Admin/issues
+- HackClub FlavourTown
+
+AUTHOR:
+-------
+Created by: TherealONE12

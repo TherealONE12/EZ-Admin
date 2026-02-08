@@ -1,0 +1,16 @@
+Package: ez-admin
+Version: 1.0
+Section: admin
+Priority: optional
+Architecture: amd64
+Depends: libc6 (>= 2.34)
+Maintainer: TherealONE12 <ThisisMClover@outlook.de>
+Description: EZ-Admin - Easy Linux System Administration Tool
+ EZ-Admin is a menu-driven system administration tool for Linux.
+ It provides easy access to common administrative tasks including:
+  - System updates and cleanup
+  - Installing popular tools
+  - SWAP file management
+  - Docker and Ollama installation
+  - And more
+Homepage: https://github.com/TherealONE12/EZ-Admin
