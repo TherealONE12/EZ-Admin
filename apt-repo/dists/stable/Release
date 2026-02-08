@@ -1,0 +1,26 @@
+Origin: TherealONE12
+Label: EZ-Admin Repository
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: APT repository for EZ-Admin tools
+Date: Sat, 08 Feb 2026 19:56:00 UTC
+Date: Sun, 08 Feb 2026 19:58:50 +0000
+MD5Sum:
+ 2f610f84538221f24fd3c69a0ccd6abe              251 Release
+ 197fda2ed1d35c426887f0621bae0a1d              760 main/binary-amd64/Packages
+ b8a7c0f2f5733db5955ae3a0ccf3dc40              532 main/binary-amd64/Packages.gz
+SHA1:
+ f1196f9e745b6440ffa6a70c0df5c8e702ff5bb9              251 Release
+ 5a7d660eeb364653c073c572c60472a69cc2ce81              760 main/binary-amd64/Packages
+ 52dd5839e29f2a76c18a4e8c6d2b3f7a7e5d4c77              532 main/binary-amd64/Packages.gz
+SHA256:
+ 6a450338d9d7ae3ff607d98f12902b517babae94754953df2654f55b68edf7a0              251 Release
+ e78ea18e669f73edddf517bdcda13685b0d4dba10d9409e418be3153ae7835d2              760 main/binary-amd64/Packages
+ d330c41c1ab6ef32f3a6f7e0262c49756b65dfdeaf7a689f4c4d937d912e0e23              532 main/binary-amd64/Packages.gz
+SHA512:
+ 179b99d442883e9f7a97a9d501bb789001de2081c81ae2d29c3ebd66b64149a5fb6e511790399a739ab033b6de3f82106355455488dd01dc7bbb05fabfe4265e              251 Release
+ 3568acbd82124b3a9dc03a562727a913e28b10f85f5b3bbf4305c99a79becfa3049ab5cdbf55a3df2c09e347110485d886f0478beb55425889a119589a114015              760 main/binary-amd64/Packages
+ 9e2391135071d882d6a4031e619ad4e853f1208bf7a21398808f63b4f0e5489c741fa4a5412dbd4e98496c8f9028085f9a62fd103638f4acc6ba80251bce9fe3              532 main/binary-amd64/Packages.gz
