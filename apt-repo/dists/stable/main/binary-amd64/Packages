@@ -20,3 +20,25 @@ Description: EZ-Admin - Easy Linux System Administration Tool
   - Docker and Ollama installation
   - And more
 
+Package: ez-admin
+Version: 1.0.1
+Architecture: amd64
+Maintainer: TherealONE12 <ThisisMClover@outlook.de>
+Depends: libc6 (>= 2.34)
+Filename: pool/main/ez-admin_1.0.1.deb
+Size: 25360
+MD5sum: 4b639fe2c754dd65951678a01250888d
+SHA1: 30b360b531aed4b1e5c7884a90990693c3d949d0
+SHA256: e9a73268ce90b12511b6b1419788b9afdf0acda546b9b5bbc1169ba56439fb2a
+Section: admin
+Priority: optional
+Homepage: https://github.com/TherealONE12/EZ-Admin
+Description: EZ-Admin - Easy Linux System Administration Tool
+ EZ-Admin is a menu-driven system administration tool for Linux.
+ It provides easy access to common administrative tasks including:
+  - System updates and cleanup
+  - Installing popular tools
+  - SWAP file management
+  - Docker and Ollama installation
+  - And more
+
